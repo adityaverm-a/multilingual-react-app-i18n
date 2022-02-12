@@ -1,0 +1,7 @@
+{
+  "app_title": "タイトル",
+  "language": "言語",
+  "welcome_message": "いらっしゃいませ！ このウェブサイトは",
+  "welcome_message2": "複数の言語で利用可能です",
+  "description": "ここでは、i18nの原則を使用して、このReactアプリを多言語対応にします"
+}
